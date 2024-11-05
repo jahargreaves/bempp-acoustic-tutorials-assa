@@ -1,8 +1,6 @@
 # Bempp acoustics exercises
 
-This repository contains tutorials and exercises designed to show you how to use Bempp to solve problems in acoustics. It has been prepared for the [ASSA Autumn School Series in Acoustics 2024](https://assaeindhoven.org/), which included a Computational Acoustics stream with a day on Boundary Element Method taught by [Dr Jonathan A. Hargreaves](https://salford-repository.worktribe.com/person/1159647/jonathan-hargreaves). 
-
-It is a subset of (with some slight adaptions) the materials in [this reposity](https://github.com/mscroggs/bempp-acoustic-tutorials), which was prepared with [Matthew Scroggs](https://orcid.org/0000-0002-4658-2443) for the [EAA / UKAN Computational Acoustics Summer School](https://acoustics.ac.uk/events/4468/) in 2021. 
+This repository contains tutorials and exercises designed to show you how to use Bempp to solve problems in acoustics. It has been prepared for the [ASSA Autumn School Series in Acoustics 2024](https://assaeindhoven.org/), which included a Computational Acoustics stream with a day on Boundary Element Method taught by [Dr Jonathan A. Hargreaves](https://salford-repository.worktribe.com/person/1159647/jonathan-hargreaves). It is a subset of (with some slight adaptions) the materials in [this reposity](https://github.com/mscroggs/bempp-acoustic-tutorials), which was prepared with [Matthew Scroggs](https://orcid.org/0000-0002-4658-2443) for the [EAA / UKAN Computational Acoustics Summer School](https://acoustics.ac.uk/events/4468/) in 2021. 
 
 They have all been created in [Jupyter Notebooks](https://jupyter.org/), which allow you to see code, explanation and results all alongside.
 
