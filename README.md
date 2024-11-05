@@ -15,9 +15,6 @@ You can view these tutorials and exercises [on nbviewer](https://nbviewer.jupyte
   - [Exercise 1: Uniqueness](exercises/1_uniqueness.ipynb)
 - Alternative Direct formulation by Matthew Scroggs
   - [Tutorial 2: Scattering from a rigid sphere using a direct formulation](tutorials/2_sphere_scatterer_direct.ipynb)
-  - Checking performance
-  - [Tutorial 3: Convergence rates](tutorials/3_convergence.ipynb)
-  - [Exercise 3: Iteration counts](exercises/3_iterations.ipynb)
 - Impedence boundary conditions
   - [Tutorial 4: Scattering from a impedence sphere](tutorials/4_impedence_scattering.ipynb)
 - Radiation Problems
